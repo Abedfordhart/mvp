@@ -6,8 +6,7 @@ var apiUrl = '&appid=45199af1b99f906745a5417d702bb9e7';
 module.exports = {
   get: function(place) {
     return fetch(rootUrl + place + apiUrl, {
-       headers: {
-       }
+      headers: {}
     })
     .then(function(response) {
       return response.json();

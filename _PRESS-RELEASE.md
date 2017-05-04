@@ -18,27 +18,35 @@ Once the project moves into development, the press release can be used as a touc
  
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
+  Weather Now!
 
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  This app is for users that want a simple app that shows the weather for their current city.
 
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  The app is a simple one page app that displays the weather of the users current city without the need for searching.
 
 ## Problem ##
   > Describe the problem your product solves.
+  Unlike some weather apps, this one will only take glance to see what the weather will be like today in the users current city.
 
 ## Solution ##
   > Describe how your product elegantly solves the problem.
+  Since it is a single page app that only displays simple information and defaults to the users current city, it is extremely easy to use.
 
 ## Quote from You ##
   > A quote from a spokesperson in your company.
+  Weather Now is the future of weather applications. 
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
+  Getting started is as easy as visiting our website.
 
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  Weather Now is the most simple weather app I've ever used. It doesn't tell you information you don't need, only the essentials. 
 
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
